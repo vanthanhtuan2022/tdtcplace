@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Thiên Đường Trò Chơi (TDTC) - Nhà Cái Mới Nổi Bật Với Đa Dạng Sản Phẩm Game Đổi Thưởng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TDTC <https://tdtc.place/>`_ - Thiên Đường Trò Chơi là một nền tảng giải trí ra mắt năm 2021, được phát triển bởi tập đoàn ONGAME TECHNOLOGY CORP. TDTC mang đến trải nghiệm đỉnh cao với các trò chơi như Tài Xỉu, Game Bài, Nổ Hũ, slot game và nhiều trò chơi giải trí khác.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 122 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000. 
 
-   This project is under active development.
+Phone: 09812199200. 
 
-Contents
---------
+Email: info@tdtc.place. 
 
-.. toctree::
+Website: https://tdtc.place/
 
-   usage
-   api
+#tdtc #thien_duong_tro_choi, #td_tc, #tdtcplace
